@@ -1,5 +1,5 @@
 import React from 'react';
-import { Jumbotron, Container, Button } from 'reactstrap';
+import { Jumbotron, Container } from 'reactstrap';
 
 const Home = () => (
   <React.Fragment>
