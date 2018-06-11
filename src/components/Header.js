@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
-import { Link } from 'react-router-dom';
+import React, { Component } from "react";
+import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from "reactstrap";
+import { Link } from "react-router-dom";
 
 class Header extends Component {
   constructor(props) {
