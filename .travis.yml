@@ -9,3 +9,4 @@ script:
   - snyk auth $SNYK_KEY
   - yarn test
   - yarn build
+
