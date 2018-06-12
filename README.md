@@ -13,3 +13,7 @@ PRs are ran through Travis-CI, Snyk and Codacy.
 ## Contributing
 
 See [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](.github/CONTRIBUTING.md) before submitting a PR.
+
+## License
+
+Licensed under [MIT License](LICENSE), Copyright (c) 2018 Luke Oliff.
