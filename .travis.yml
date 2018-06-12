@@ -6,6 +6,6 @@ cache:
   - node_modules
 script:
   - yarn
-  - snyk auth SNYK_KEY
+  - snyk auth $SNYK_KEY
   - yarn test
   - yarn build
